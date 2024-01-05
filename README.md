@@ -20,7 +20,7 @@ upload_max_filesize = 100M
 max_execution_time = 300
 max_input_time = 300
 memory_limit = 128M
-
+```
 ### 3. Reinicia el Servidor
 
 Reinicia tu servidor web (Apache en el caso de XAMPP) para que las nuevas configuraciones surtan efecto.
