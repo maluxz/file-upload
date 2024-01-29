@@ -1,6 +1,6 @@
-# CyberUploader 🚀
+# file-upload 🚀
 
-Secure file uploads with a stylish Mr. Robot-inspired progress bar.
+Secure file uploads with a progress bar.
 
 ## Configuración para Subir Archivos de Gran Tamaño
 
